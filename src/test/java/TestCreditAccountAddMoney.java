@@ -4,7 +4,7 @@ import org.hamcrest.Matchers;
 import org.junit.jupiter.api.Test;
 import static org.hamcrest.MatcherAssert.assertThat;
 
-public class testCreditAccountAddMoney {
+public class TestCreditAccountAddMoney {
     CreditAccount account = new CreditAccount();
 
     @Test

@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
-public class testCheckingAccountPay {
+public class TestCheckingAccountPay {
     private static CheckingAccount account;
 
     @BeforeAll
